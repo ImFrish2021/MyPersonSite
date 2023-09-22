@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+
+    margin: 0;
+    padding: 0;
+
+    background: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text_box {
+    width: 100%;
+    height: 80px;
+
+    font-family: "微软雅黑", serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    -webkit-align-items: flex-end;
+}
+
+.login_text {
+    font-size: 30px;
+    color: black;
+}

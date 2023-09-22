@@ -1,0 +1,19 @@
+server.port: 8080
+
+solon.config.add: "./config.yml"
+
+#mybatis.database:
+#  typeAliases: # 没有模型，所以不需要
+#  mappers:
+#    - "xyz.frish2021.website.mapper.SQLInitiativeMapper.class"
+#    - "xyz.frish2021.website.mapper.SQLUtilMapper.class"
+#    - "xyz.frish2021.website.mapper.SQLAdminMapper.class"
+
+#solon.logging.logger:
+#  "root":
+#    level: TRACE
+#  "com.zaxxer.hikari":
+#    level: WARN
+
+#solon.logging.appender:
+# 没什么用

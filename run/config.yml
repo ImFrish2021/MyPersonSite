@@ -1,0 +1,17 @@
+#sql.database:
+#  schema: ""
+#  maxLifetime: 1000000
+#  jdbcUrl: "jdbc:mysql://localhost:3306/"
+#  driverClassName: "com.mysql.cj.jdbc.Driver"
+#  username: "root"
+#  password: "114514"
+#  database_name: "user_database"
+#  table_name: "user_table"
+
+website:
+  headshot: "image/icon.jpg"
+  website_icon: "image/icon.jpg"
+  mail: "1573880184@qq.com"
+  bilibili: "1218878325"
+  github: "ImFrish2021"
+  gitee: "Frish2021"
